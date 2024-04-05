@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Logo from "../../public/logo.png";
+import Logo from "../../public/Logo.png";
 import Link from 'next/link';
 import Image from 'next/image';
 
